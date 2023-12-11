@@ -1,0 +1,5 @@
+Data Interaction Point,Category,Responsible Custodian
+heart_rate,Ambient Sensor Data,Custodian B
+step_counter,Ambient Sensor Data,Custodian E
+sleep_quality,Unknown,Custodian E
+calories_burned,Unknown,Custodian E
